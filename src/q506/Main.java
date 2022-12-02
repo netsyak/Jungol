@@ -18,7 +18,7 @@ public class Main {
 	
 	System.out.println(str1);
 	System.out.println(height);
-	System.out.println(str1);
+	System.out.println(str2);
 	System.out.printf("%.6f", weight);
 	
 	}
