@@ -7,10 +7,10 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		for (;;) {
+			System.out.print("Base = " );
 			int base = sc.nextInt();
+			System.out.print("Height = " );
 			int height = sc.nextInt();
-			System.out.print("Base = " + base);
-			System.out.print("Height = " + height);
 			double trianglewidth = (double) (base * height) / 2;
 			System.out.printf("Triangle width = %.1f\n", trianglewidth);
 
