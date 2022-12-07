@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-// 1.문제
+//   # 방법 1 do-while
 //		do {
 //			System.out.print("점수를 입력하세요. ");
 //			int score = sc.nextInt();
@@ -21,6 +21,9 @@ public class Main {
 //
 //		} while (true);
 
+		
+//		# 방법 2  for
+		
 		for (;;) {
 			System.out.print("점수를 입력하세요. ");
 			int inp = sc.nextInt();
