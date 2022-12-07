@@ -1,4 +1,4 @@
-package q9020;
+package q9020X;
 
 import java.util.Scanner;
 
